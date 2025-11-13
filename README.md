@@ -28,3 +28,19 @@ The repository also contains a CI/CD tool. You must **update the CI/CD pipeline*
 
 * **Goal:** The pipeline steps themselves do not need to be fully functional. The objective is to demonstrate a basic understanding of how to **structure and set up the pipeline** for this kind of deployment.
 ```
+
+
+
+### How to make the Test
+
+
+- Download ore fork this repo
+- Update and make your changes
+- Submit back by zipping the folder and send to contact point
+
+
+### You will need 
+
+- Docker
+- Helm
+- k8s cluster (minikube will work)
